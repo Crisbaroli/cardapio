@@ -13,6 +13,29 @@ body{
   background-repeat: round;
  background-size: cover;
 }
+
+.lugar{
+  text-align: center;
+  font-size: 30px;
+  border: 2px solid yellow;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 60px;
+  margin-right: 60px;
+  border-radius: 8px;
+
+
+}
+.botão{
+  border: 2px solid yellow; 
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  color: yellow;
+
+}
+
  .p1{
       text-align: center;
    font-size: 80px;
